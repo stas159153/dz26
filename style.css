@@ -1,0 +1,100 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    font-family:Montserrat;
+    box-sizing: border-box;
+}
+.sticky-p{
+    text-transform: uppercase;
+    margin: 0px;
+    color: white;
+    display: inline-block;
+    margin: 0 20px;
+}
+.sticky{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.header{
+    width: 100%;
+   height: 100vh;
+    background-image: url(jpg);
+    background-size: cover;
+    background-position: center;
+    padding-top: 10px;
+}
+.sticky-text{
+    color: white;
+    font-weight: 300;
+    text-transform: uppercase;
+}
+.sticky-link{
+    text-decoration:none ;
+    text-transform: uppercase;
+    border: 1px solid white;
+    font-size: 13px;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 50px;
+}
+.sticky-link:hover{
+    background-color: black;
+    border: 1px solid black;
+}
+.wrapper-span{
+    color: white;
+    display: inline-block;
+    font-size: 50px;
+    margin: 0 15px;
+    font-weight: 100;
+    
+}
+.wrapper-text{
+    color: white;
+    font-size: 50px;
+    font-weight: 600;
+}
+.wrapper{
+    margin: auto;
+    text-align: center;
+    margin-top: 30%;
+    width: 40%;
+}
+.wrapper-p{
+    color: white;
+    font-weight: 100;
+    font-size: 20px;
+    margin: 10px 0 40px 0;
+}
+.p-text{
+color: green;
+font-weight: 200;
+}
+.link{
+    text-transform: uppercase;
+    text-decoration: none;
+    color: black;
+    background-color: aquamarine;
+    padding: 10px 30px;
+    border-radius: 30px;
+    font-weight: 500;
+    display: inline-block;
+}
+.wrapper-link{
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    width: 60%;
+}
+.link-2{
+    text-decoration: none;
+    text-transform: uppercase;
+    color: white;
+    background-color: blueviolet;
+    padding: 10px 25px;
+    border-radius: 30px;
+}
+
+
+
